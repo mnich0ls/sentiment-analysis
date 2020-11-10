@@ -1,0 +1,24 @@
+{
+  "name": "sentiment",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "sentiment": "^5.0.2"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mnich0ls/sentiment-analysis.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/mnich0ls/sentiment-analysis/issues"
+  },
+  "homepage": "https://github.com/mnich0ls/sentiment-analysis#readme"
+}
